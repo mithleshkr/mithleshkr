@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mithleshkr
+- 👋 Hi, I’m Mithlesh Kumar
 - 👀 I’m interested in react js
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently working as React JS developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
